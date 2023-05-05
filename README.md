@@ -59,17 +59,17 @@ The graph below shows the amount of fraudulent transactions plotted against time
 
 There is no significant correlation between the features `V1-V28`. However, some of these features exhibit a correlation with Time `(V3 has an inverse correlation)` and Amount `(V7 and V20 have a direct correlation, while V1 and V5 have an inverse correlation)`.
 
-We will create a graph displaying the directly correlated and inversely correlated values on the same plot. We will begin with the directly correlated values, which are `{V20;Amount}` and `{V7;Amount}.
+We will create a graph displaying the directly correlated and inversely correlated values on the same plot. We will begin with the directly correlated values, which are `{V20;Amount}` and `{V7;Amount}`.
 
-![V20](output\v20.png)
+![V20](output/V20.png)
 
-![V7](output\v7.png)
+![V7](output/V7.png)
 
 We can verify that the two sets of features are correlated by observing that the regression lines for Class = 0 have a positive slope, while the regression line for Class = 1 has a slightly smaller positive slope.
 
-![V2](output\v2.png)
+![V2](output/V2.png)
 
-![V5](output\v5.png)
+![V5](output/V5.png)
 
 We can verify that the two sets of features are inversely correlated by observing that the regression lines for Class = 0 have a negative slope, while the regression lines for Class = 1 have a very small negative slope.
 
