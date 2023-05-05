@@ -61,15 +61,15 @@ There is no significant correlation between the features `V1-V28`. However, some
 
 We will create a graph displaying the directly correlated and inversely correlated values on the same plot. We will begin with the directly correlated values, which are `{V20;Amount}` and `{V7;Amount}.
 
-![V20](output/v20.png)
+![V20](output\v20.png)
 
-![V7](output/v7.png)
+![V7](output\v7.png)
 
 We can verify that the two sets of features are correlated by observing that the regression lines for Class = 0 have a positive slope, while the regression line for Class = 1 has a slightly smaller positive slope.
 
-![V2](output/v2.png)
+![V2](output\v2.png)
 
-![V5](output/v5.png)
+![V5](output\v5.png)
 
 We can verify that the two sets of features are inversely correlated by observing that the regression lines for Class = 0 have a negative slope, while the regression lines for Class = 1 have a very small negative slope.
 
