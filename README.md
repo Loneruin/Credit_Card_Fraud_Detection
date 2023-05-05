@@ -140,12 +140,21 @@ We also applied the data to a LightGBM model and evaluated its effectiveness in 
 
 ## References
 [1] Credit Card Fraud Detection Database, Anonymized credit card transactions labeled as fraudulent or genuine, https://www.kaggle.com/mlg-ulb/creditcardfraud
+
 [2] Principal Component Analysis, Wikipedia Page, https://en.wikipedia.org/wiki/Principal_component_analysis
+
 [3] RandomForrestClassifier, http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+
 [4] ROC-AUC characteristic, https://en.wikipedia.org/wiki/Receiver_operating_characteristic#Area_under_the_curve
+
 [5] AdaBoostClassifier, http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html
+
 [6] CatBoostClassifier, https://tech.yandex.com/catboost/doc/dg/concepts/python-reference_catboostclassifier-docpage/
+
 [7] XGBoost Python API Reference, http://xgboost.readthedocs.io/en/latest/python/python_api.html
+
 [8] LightGBM Python implementation, https://github.com/Microsoft/LightGBM/tree/master/python-package
+
 [9] LightGBM algorithm, https://www.microsoft.com/en-us/research/wp-content/uploads/2017/11/lightgbm.pdf
+
 [10] Credit Card Fraud Dectection, https://www.kaggle.com/code/gpreda/credit-card-fraud-detection-predictive-models/notebook
