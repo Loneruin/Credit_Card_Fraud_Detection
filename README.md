@@ -112,7 +112,7 @@ In terms of the costs associated with these errors, a `Type I error` would resul
 
 ### XGBoost Classifier
 
-![Feature Importance](output/feature_importance_xgboost.png)
+![Feature Importance](output/feature_importance_XGBoost.png)
 
 ### LightGBM
 
